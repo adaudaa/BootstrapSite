@@ -1,0 +1,35 @@
+/* Custom CSS for the website */
+body {
+    background-color: #5f985b;
+}
+
+.container {
+    margin-top: 20px;
+    background-color: #fbfbfb;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar {
+    background-color: #007BFF;
+    color: #180ccc;
+}
+
+.navbar-nav .nav-link {
+    color: #1118a3;
+}
+
+footer {
+    background-color: #007BFF;
+    color: #bc2222;
+    text-align: center;
+    padding: 10px;
+}
+/* Set a full-screen background image */
+body {
+    background-image: url('home-image.jpeg'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+}
